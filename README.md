@@ -4,4 +4,4 @@
 
 ## notes to every one
 
-### want tolearn
+### want to learn full stuck developing
